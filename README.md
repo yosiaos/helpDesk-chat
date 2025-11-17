@@ -81,5 +81,5 @@ flutter run
 - Resize window → layout berubah otomatis
 - API key tidak disertakan dalam repository.
 
-##Author
+## Author
 Yosia – Internship Flutter Test
